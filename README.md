@@ -4,21 +4,15 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
  <br>
   
   #### forEach ไม่่returnอะไรออกมา แค่พาเข้าไปในแค่elementจนครบ 
-  
   <br>
-  
   #### filter คืนค่าelementที่ผ่านเงื่่อนไข (สร้างarrayใหม่่และกรองelementarrayที่ผ่านเงื่อนไขCallBackFunction(arrowfunctiom)) 
   <br>
-  
   #### map คืนค่าทุกelementที่่เราสั่งให้คำนวณ หรือให้เลือกตามcloumnออกมา(ถ้าเป็นobj) (จะทำการreturn arrayใหม่แต่ค่าที่returnออกไปมีจำนวนท่ากับขนาดarrayที่รับมา) 
   <br>
-  
   #### find ไม่return arrayใหม่จะreturnค่าแรกที่เจอ 
   <br>
-  
   #### findIndex เหมือนfindแต่return index ex.(array[i]) 
   <br>
-  
   #### every return boolean(true,false)|เข้าไปในทุกelement และทุกelementต้องผ่านเงื่อไขของ callbackfunctionถึงจะreturn true ไมผ่่านตัวนึงreturn false 
   <br>
   
