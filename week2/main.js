@@ -26,7 +26,7 @@ console.log(total)
 if(total === undefined) console.log('varible does not have initial value')
 if(a===null) console.log('variable has null value')
 if('2'==2) console.log(`'2'==2' : ${'2' == 2}`)
-if('2'===2) console.log(`'2'===2' : ${'2' === 2}`)
+if('2'===2) console.log(`'2'===2' : ${'2' === 2}`) //'2'==2' : true
 
 //object sample
 const obj={id:1001, name: 'pen',price:100}
